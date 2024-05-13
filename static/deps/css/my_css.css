@@ -7,6 +7,19 @@ body {
   height: 100%;
 }
 
+.search-results {
+  color: rgb(227,225,212);
+}
+
+.no-results {
+  color: rgb(227,225,212);
+}
+
+
+.store-name {
+  color: rgb(227,225,212); 
+}
+
 .dropdown-toggle::after {
   content: none;
 }
